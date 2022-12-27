@@ -12,4 +12,5 @@
 3. D3
 4. D3 PRO  
 ## 考勤机
-1. M1F
+1. M1F  
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=OpenDPC)]()
