@@ -1,7 +1,7 @@
 * [中文版](./README_CN.md)
 
 # Framework
-![Frameword of OpenDPC]([Framework.png]#pic_center)
+<div align=center><img src="https://github.com/OpenDPC/OpenDPC/blob/main/Framework.png"></div>
 
 # Certified products
 | NO.     | Type     | Model     |
