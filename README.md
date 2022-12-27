@@ -1,7 +1,7 @@
 * [中文版](./README_CN.md)
 
 # Framework
-![Frameword of OpenDPC](Frameworks.png "Framework")
+![Frameword of OpenDPC](Framework.png "Framework")
 
 # Certified products
 ## Smart Lock
