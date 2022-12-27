@@ -4,16 +4,6 @@
 <div align=center><img src="https://github.com/OpenDPC/OpenDPC/blob/main/Framework.png"></div>
 
 # Certified products
-<style>
-.center 
-{
-  width: auto;
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
 <div class="center">
 
 | NO.     | Type     | Model     |  
