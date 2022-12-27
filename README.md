@@ -15,4 +15,37 @@
 1. M1F  
 
 # Project Data
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=OpenDPC)]()
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/OpenDPC/enOS"><b>enOS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/OpenDPC/enOS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/OpenDPC/enOS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/OpenDPC/enOS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OpenDPC/enOS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/OpenDPC/lenOS"><b>lenOS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/OpenDPC/lenOS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/OpenDPC/lenOS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/OpenDPC/lenOS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OpenDPC/lenOS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/OpenDPC/diAPP-Android"><b>diAPP-Android</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/OpenDPC/diAPP-Android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/OpenDPC/diAPP-Android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/OpenDPC/diAPP-Android?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OpenDPC/diAPP-Android?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
