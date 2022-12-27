@@ -4,15 +4,11 @@
 ![Frameword of OpenDPC](Framework.png "Framework")
 
 # Certified products
-## Smart Lock
-1. S50M Pro
-## Drive Recorder
-1. D2  
-2. D2 PRO
-3. D3
-4. D3 PRO  
-## Attendance Machine
-1. M1F  
+| NO.     | Type     | Model     |
+| -------- | -------- | -------- |
+| 1 | Smart Lock | S50M Pro |
+| 2 | Drive Recorder | D2, D2 PRO, D3, D3 PRO |
+| 3 | Attendance Machine | M1F |
 
 # Project Data
 <table>
