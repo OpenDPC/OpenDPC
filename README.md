@@ -18,7 +18,7 @@
 
 # Projects
 <table align=center>
-  <thead>
+  <thead align=center>
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
