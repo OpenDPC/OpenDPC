@@ -19,7 +19,7 @@
 </div>
 
 # 项目列表
-<table>
+<table align=center>
   <thead align=center>
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
