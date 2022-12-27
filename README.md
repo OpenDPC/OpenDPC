@@ -4,7 +4,7 @@
 <div align=center><img src="https://github.com/OpenDPC/OpenDPC/blob/main/Framework.png"></div>
 
 # Certified products
-<div class="center">
+<div align=center>
 
 | NO.     | Type     | Model     |  
 | -------- | -------- | -------- |  
