@@ -64,5 +64,20 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/OpenDPC/diFHE?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OpenDPC/diFHE?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    </tr>
+       <tr>
+      <td><a href="https://github.com/OpenDPC/diSTOR"><b>diSTOR</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/OpenDPC/diSTOR?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/OpenDPC/diSTOR?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/OpenDPC/diSTOR?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OpenDPC/diSTOR?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/OpenDPC/diHIVE"><b>diHIVE</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/OpenDPC/diHIVE?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/OpenDPC/diHIVE?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/OpenDPC/diHIVE?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/OpenDPC/diHIVE?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
