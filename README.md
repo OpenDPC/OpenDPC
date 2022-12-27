@@ -10,7 +10,7 @@
 | 2 | Drive Recorder | D2, D2 PRO, D3, D3 PRO |
 | 3 | Attendance Machine | M1F |
 
-# Project Data
+# Projects
 <table>
   <thead align="center">
     <tr border: none;>
