@@ -1,7 +1,7 @@
 * [English Version](./README.md)
 
 # 平台架构
-![Frameword of OpenDPC](Framework.png "Framework")
+![Frameword of OpenDPC](Framework.png "Framework" width="50%")
 
 # 认证产品列表
 | 序号     | 类别     | 型号     |
