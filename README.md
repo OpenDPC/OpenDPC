@@ -13,13 +13,15 @@
   margin-right: auto;
 }
 </style>
-<p align="center"><font face="黑体" size=2.>表1 示例表格</font></p>
+
 <div class="center">
+
 | NO.     | Type     | Model     |  
 | -------- | -------- | -------- |  
 | 1 | Smart Lock | S50M Pro |  
 | 2 | Drive Recorder | D2, D2 PRO, D3, D3 PRO |  
 | 3 | Attendance Machine | M1F |  
+
 </div>
 
 # Projects
