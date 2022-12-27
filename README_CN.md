@@ -1,18 +1,22 @@
 * [English Version](./README.md)
 
 # 平台架构
-![Frameword of OpenDPC](Framework.png "Framework" )
+<div align=center>
+<img src="https://github.com/OpenDPC/OpenDPC/blob/main/Framework.png">
+</div>
 
 # 认证产品列表
+<div align=center>
 | 序号     | 类别     | 型号     |
 | -------- | -------- | -------- |
 | 1 | Smart Lock | S50M Pro |
 | 2 | Drive Recorder | D2, D2 PRO, D3, D3 PRO |
 | 3 | Attendance Machine | M1F |
+</div>
 
 # 项目列表
 <table>
-  <thead align="center">
+  <thead align=center>
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
