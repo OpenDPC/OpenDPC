@@ -17,8 +17,8 @@
 </div>
 
 # Projects
-<table>
-  <thead align=center>
+<table align=center>
+  <thead>
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
