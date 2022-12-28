@@ -8,9 +8,9 @@
 # Certified products
 <div align=center>
 
-| NO.     | Type     | Model     |  
-| -------- | -------- | -------- |  
-| 1 | Smart Lock | S50M Pro |  
+| NO.     | Type     | Model     | Bord    | Product     |  
+| -------- | -------- | -------- | -------- | -------- |  
+| 1 | Smart Lock | S50M Pro | <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Buy</a> |  
 | 2 | Drive Recorder | D2, D2 PRO, D3, D3 PRO |  
 | 3 | Attendance Machine | M1F |  
 
