@@ -10,11 +10,11 @@
 # 认证产品列表
 <div align=center>
 
-| 序号     | 类别     | 型号     |
-| -------- | -------- | -------- |
-| 1 | Smart Lock | S50M Pro |
-| 2 | Drive Recorder | D2, D2 PRO, D3, D3 PRO |
-| 3 | Attendance Machine | M1F |  
+| 序号     | 类别     | 型号     | 开发板     | 产品     |
+| -------- | -------- | -------- | -------- | -------- |
+| 1 | Smart Lock | S50M Pro | <a href="https://opendpc.github.io/">采购</a> | <a href="https://opendpc.github.io/">采购</a> |
+| 2 | Drive Recorder | D2, D2 PRO, D3, D3 PRO | <a href="https://opendpc.github.io/">Buy</a> | <a href="https://opendpc.github.io/">采购</a> |
+| 3 | Attendance Machine | M1F | <a href="https://opendpc.github.io/">采购</a> | <a href="https://opendpc.github.io/">采购</a> |  
 
 </div>
 
