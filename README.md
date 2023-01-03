@@ -11,7 +11,7 @@
 | NO.     | Type     | Model     | EVB    | Product     |  
 | -------- | -------- | -------- | -------- | -------- |  
 | 1 | Smart Lock | S50M Pro | <a href="https://opendpc.github.io/">Buy</a> | <a href="https://opendpc.github.io/">Buy</a> |  
-| 2 | Drive Recorder | D2, D2 PRO, D3, D3 PRO | <a href="https://opendpc.github.io/">Buy</a> | <a href="https://opendpc.github.io/">Buy</a> |  
+| 2 | Car Driving Recorder | D2, D2 PRO, D3, D3 PRO | <a href="https://opendpc.github.io/">Buy</a> | <a href="https://opendpc.github.io/">Buy</a> |  
 | 3 | Attendance Machine | M1F | <a href="https://opendpc.github.io/">Buy</a> | <a href="https://opendpc.github.io/">Buy</a> |  
 
 </div>
